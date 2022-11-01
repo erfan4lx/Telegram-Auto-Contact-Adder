@@ -1,7 +1,8 @@
 # Telegram-Auto-Contact-Adder
-The best tool to add members as your contact then bulk adding on group
+LATEST VERSION : https://github.com/erfan4lx/Telegram-Members-Adder/
 
-Get the latest version of this tool : https://github.com/erfan4lx/Telegram-Bulk-Member-Adder-V2
+
+The best tool to add members as your contact then bulk adding on group
 
  MY OFFICIAL WEBSITE : https://erfan4lx.com
 
